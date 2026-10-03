@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of hdu/flarum-ext-auth-hducas.** Not for installation: use [Packagist](https://packagist.org/packages/hdu/flarum-ext-auth-hducas) or the [upstream repository](https://github.com/HDUAAA/flarum-ext-auth-hducas).
 
-**0** versions archived · Latest: [`0.2.1`](https://github.com/flarchive/hdu-flarum-ext-auth-hducas/tree/archive/v0.2.1) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**4** versions archived · Latest: [`0.2.1`](https://github.com/flarchive/hdu-flarum-ext-auth-hducas/tree/archive/v0.2.1) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-10-10 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/hdu-flarum-ext-auth-hducas/tree/archive/v0.1.0) |
+| `0.1.1` | 2018-10-10 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/hdu-flarum-ext-auth-hducas/tree/archive/v0.1.1) |
+| `0.1.2` | 2018-10-12 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/hdu-flarum-ext-auth-hducas/tree/archive/v0.1.2) |
+| `0.2.1` | 2018-10-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/hdu-flarum-ext-auth-hducas/tree/archive/v0.2.1) |
 
 Catalog entry: [packages/hdu-flarum-ext-auth-hducas.json](https://github.com/flarchive/archive-index/blob/main/packages/hdu-flarum-ext-auth-hducas.json)
 
